@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arsenal", "Arsenal\Arsenal.csproj", "{D89C3829-56AE-48C7-BA47-B4E02AB195AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GunFabric", "GunFabric\GunFabric.csproj", "{5D2B8162-681E-4F8F-9F88-1130DD784E0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D89C3829-56AE-48C7-BA47-B4E02AB195AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D89C3829-56AE-48C7-BA47-B4E02AB195AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D89C3829-56AE-48C7-BA47-B4E02AB195AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D89C3829-56AE-48C7-BA47-B4E02AB195AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D2B8162-681E-4F8F-9F88-1130DD784E0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D2B8162-681E-4F8F-9F88-1130DD784E0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D2B8162-681E-4F8F-9F88-1130DD784E0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D2B8162-681E-4F8F-9F88-1130DD784E0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {718934C3-BAEF-42AA-BC46-C5C8CEC8F60C}
+	EndGlobalSection
+EndGlobal

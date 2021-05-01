@@ -1,0 +1,16 @@
+C:\Users\orxan\Desktop\HomeTask\Practice\Arsenal\bin\Debug\net5.0\Arsenal.exe
+C:\Users\orxan\Desktop\HomeTask\Practice\Arsenal\bin\Debug\net5.0\Arsenal.deps.json
+C:\Users\orxan\Desktop\HomeTask\Practice\Arsenal\bin\Debug\net5.0\Arsenal.runtimeconfig.json
+C:\Users\orxan\Desktop\HomeTask\Practice\Arsenal\bin\Debug\net5.0\Arsenal.runtimeconfig.dev.json
+C:\Users\orxan\Desktop\HomeTask\Practice\Arsenal\bin\Debug\net5.0\Arsenal.dll
+C:\Users\orxan\Desktop\HomeTask\Practice\Arsenal\bin\Debug\net5.0\ref\Arsenal.dll
+C:\Users\orxan\Desktop\HomeTask\Practice\Arsenal\bin\Debug\net5.0\Arsenal.pdb
+C:\Users\orxan\Desktop\HomeTask\Practice\Arsenal\obj\Debug\net5.0\Arsenal.csprojAssemblyReference.cache
+C:\Users\orxan\Desktop\HomeTask\Practice\Arsenal\obj\Debug\net5.0\Arsenal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orxan\Desktop\HomeTask\Practice\Arsenal\obj\Debug\net5.0\Arsenal.AssemblyInfoInputs.cache
+C:\Users\orxan\Desktop\HomeTask\Practice\Arsenal\obj\Debug\net5.0\Arsenal.AssemblyInfo.cs
+C:\Users\orxan\Desktop\HomeTask\Practice\Arsenal\obj\Debug\net5.0\Arsenal.csproj.CoreCompileInputs.cache
+C:\Users\orxan\Desktop\HomeTask\Practice\Arsenal\obj\Debug\net5.0\Arsenal.dll
+C:\Users\orxan\Desktop\HomeTask\Practice\Arsenal\obj\Debug\net5.0\ref\Arsenal.dll
+C:\Users\orxan\Desktop\HomeTask\Practice\Arsenal\obj\Debug\net5.0\Arsenal.pdb
+C:\Users\orxan\Desktop\HomeTask\Practice\Arsenal\obj\Debug\net5.0\Arsenal.genruntimeconfig.cache
