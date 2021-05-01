@@ -1,0 +1,16 @@
+C:\Users\orxan\Desktop\New folder\HomeTask\Practice\GunFabric\bin\Debug\net5.0\GunFabric.exe
+C:\Users\orxan\Desktop\New folder\HomeTask\Practice\GunFabric\bin\Debug\net5.0\GunFabric.deps.json
+C:\Users\orxan\Desktop\New folder\HomeTask\Practice\GunFabric\bin\Debug\net5.0\GunFabric.runtimeconfig.json
+C:\Users\orxan\Desktop\New folder\HomeTask\Practice\GunFabric\bin\Debug\net5.0\GunFabric.runtimeconfig.dev.json
+C:\Users\orxan\Desktop\New folder\HomeTask\Practice\GunFabric\bin\Debug\net5.0\GunFabric.dll
+C:\Users\orxan\Desktop\New folder\HomeTask\Practice\GunFabric\bin\Debug\net5.0\ref\GunFabric.dll
+C:\Users\orxan\Desktop\New folder\HomeTask\Practice\GunFabric\bin\Debug\net5.0\GunFabric.pdb
+C:\Users\orxan\Desktop\New folder\HomeTask\Practice\GunFabric\obj\Debug\net5.0\GunFabric.csprojAssemblyReference.cache
+C:\Users\orxan\Desktop\New folder\HomeTask\Practice\GunFabric\obj\Debug\net5.0\GunFabric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orxan\Desktop\New folder\HomeTask\Practice\GunFabric\obj\Debug\net5.0\GunFabric.AssemblyInfoInputs.cache
+C:\Users\orxan\Desktop\New folder\HomeTask\Practice\GunFabric\obj\Debug\net5.0\GunFabric.AssemblyInfo.cs
+C:\Users\orxan\Desktop\New folder\HomeTask\Practice\GunFabric\obj\Debug\net5.0\GunFabric.csproj.CoreCompileInputs.cache
+C:\Users\orxan\Desktop\New folder\HomeTask\Practice\GunFabric\obj\Debug\net5.0\GunFabric.dll
+C:\Users\orxan\Desktop\New folder\HomeTask\Practice\GunFabric\obj\Debug\net5.0\ref\GunFabric.dll
+C:\Users\orxan\Desktop\New folder\HomeTask\Practice\GunFabric\obj\Debug\net5.0\GunFabric.pdb
+C:\Users\orxan\Desktop\New folder\HomeTask\Practice\GunFabric\obj\Debug\net5.0\GunFabric.genruntimeconfig.cache
